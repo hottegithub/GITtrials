@@ -1,1 +1,3 @@
-Hello world added text to 1 sdfsdfsdf 
+Hello world added text to 1 
+
+Committed from the new Git repo
